@@ -50,13 +50,13 @@ const Contact = () => {
     {
       icon: FaLinkedin,
       label: 'LinkedIn',
-      link: 'https://linkedin.com',
+      link: 'https://linkedin.com/in/erjon-omeri-67bb09109',
       color: '#0077B5'
     },
     {
       icon: FaGithub,
       label: 'GitHub',
-      link: 'https://github.com',
+      link: 'https://github.com/erjon-omeri',
       color: '#333'
     }
   ];
